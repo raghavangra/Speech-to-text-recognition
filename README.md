@@ -1,2 +1,2 @@
 # Speech-to-text-recognition
-## Simple speech to text converter
+## speech to text converter
